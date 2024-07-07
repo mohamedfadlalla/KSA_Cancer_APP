@@ -2,5 +2,6 @@ pandas
 geopandas
 folium
 streamlit
+seaborn
+matplotlib
 streamlit_folium
-openpyxl
