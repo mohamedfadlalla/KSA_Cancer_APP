@@ -5,3 +5,4 @@ streamlit
 seaborn
 matplotlib
 streamlit_folium
+openpyxl
