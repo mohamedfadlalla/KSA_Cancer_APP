@@ -2,6 +2,10 @@
 
 KSA_Cancer_APP is a web application designed to visualize cancer statistics in Saudi Arabia. It provides interactive visualizations, including maps and charts, to help users understand regional cancer data.
 
+## Live Version
+
+You can access the live version of the KSA_Cancer_APP [here](https://ksa-cancer.streamlit.app/).
+
 ## Features
 
 - **Interactive Maps**: Visualize cancer statistics across different regions in Saudi Arabia.
@@ -14,7 +18,7 @@ KSA_Cancer_APP is a web application designed to visualize cancer statistics in S
 - Streamlit
 - Pandas
 - Geopandas
-- Fulium
+- Folium
 
 ## Installation
 
